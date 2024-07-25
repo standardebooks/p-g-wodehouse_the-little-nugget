@@ -34,37 +34,41 @@
 		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008106302</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">An English gentleman of leisure, on the rebound from his first engagement, learns that his socially ambitious new fianceé has a small request: kidnap the spoiled and repellent son of a wealthy American businessman from his boarding school and bring him to his mother before the professional kidnappers already angling for a ransom from his father abduct him first.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Peter Burns, a young and independently wealthy Englishman, believes he is making a life for himself after the heartbreak of his ex-fiancée’s sudden departure with a proposal to the socially ambitious Cynthia Drassilis. Almost at once he finds he must demonstrate his commitment to the match by planning to kidnap the combative, chain-smoking Ogden Ford, son of Cynthia’s patron and benefactor Nesta Ford and an American business tycoon, and known as The Little Nugget by kidnappers for his potential value in ransom. After Cynthia’s first attempt to return him to the custody of his mother is foiled only hours later by his father’s underlings, Peter decides that his best chance of success is to attend the boy’s boarding school as an instructor. He knows that while there he must also prevent Bowery Street hoodlum Buck McGinnis and silver-tongued confidence man Smooth Sam Fisher from removing the Nugget first, but little suspects how profoundly both his own recent past and Ogden’s obstinacy will tangle his plans.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Sir Pelham Grenville Wodehouse&lt;/a&gt; was an English author and one of the most widely read humorists of the twentieth century. After leaving school, he was employed by a bank but disliked the work and turned to writing in his spare time. His early writing mostly consisted of school stories, but he later switched to writing comic fiction, creating several regular characters who became familiar to the public over the years, such as Bertie Wooster and Jeeves.&lt;/p&gt;
+			&lt;p&gt;Along with &lt;i&gt;The Coming of Bill&lt;/i&gt;, written around the same time, this is one of Wodehouse’s few non-comedy novels, undertaken for serial publication at the behest of &lt;i&gt;Munsey’s Magazine&lt;/i&gt; editor Bob Davis and published there first as &lt;i&gt;The Eighteen-Carat Kid&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6683</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/thelittlenugget06683gut</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Little_Nugget</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-little-nugget</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Pelham Grenville Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Victor Dubreuil</dc:contributor>
+		<meta property="file-as" refines="#artist">Dubreuil, Victor</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Victor_Dubreuil</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Suzanne L. Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne L.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Tom Allen</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Allen, Tom</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Krieger</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Krieger, Alex</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
